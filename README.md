@@ -58,7 +58,9 @@ chmod +x gophish
 sudo nohup ./gophish &
 ```
 
-> On first run, GoPhish will print a one-time admin password in the logs. Save it immediately.
+<img width="472" height="53" alt="image" src="https://github.com/user-attachments/assets/281b29c6-39ed-497a-b04f-0e46ea542c64" />
+
+> On first run, GoPhish will print a one-time admin password in the logs. Save it immediately and ensure to change it at first login.
 
 ---
 
@@ -106,6 +108,7 @@ Then open your browser and navigate to:
 ```
 https://127.0.0.1:3333
 ```
+<img width="1893" height="845" alt="image" src="https://github.com/user-attachments/assets/f31aa873-6d80-4e89-92df-d8d5ba38bdb5" />
 
 ---
 
@@ -171,7 +174,7 @@ Email Template:   [your template]
 Landing Page:     [your landing page]
 URL:              http://yourcompany-hr.duckdns.org
 Launch Date:      [your chosen date]
-Sending Profile:  CEO Simulation Mailer
+Sending Profile:  Simulation Mailer
 Groups:           [your employee target group]
 ```
 
@@ -190,6 +193,8 @@ GoPhish automatically tracks the following per employee:
 | 🚩 Email Reported | Employee reported the email as suspicious |
 
 ---
+<img width="793" height="341" alt="image" src="https://github.com/user-attachments/assets/93edfa17-f982-44a1-9a84-0c9be1f8e73b" />
+
 
 ## 🔐 Ethical Guidelines
 
